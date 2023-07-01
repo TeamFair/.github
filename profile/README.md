@@ -1,4 +1,13 @@
-## TeamFair
+# TeamFair
+
+## 소상공인 대상 불공정 방지 광고 게임 플랫폼
+
+Team Member: 
+
+추후 Edit 예정
+
+
+
 
 <!--
 
